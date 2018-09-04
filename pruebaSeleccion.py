@@ -1,12 +1,12 @@
-# Autor: Juan Sebastian Lozano Derbez
-# Prueba seleccion simple/doble
+# Autor: Juan Sebastián Lozano Derbez
+# Prueba selección simple/doble
 
 def main():
     carrera = input("Carrera: ")
 
     if carrera.upper() == "IMT":
-        print("Estas en el salon equivocado")
+        print("Estás en el salon equivocado")
     else:
-        print ("Estas en el salon correcto")
+        print ("Estás en el salon correcto")
 
 main()
